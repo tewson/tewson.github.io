@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: 'Karla', sans-serif;
+}
+
+.footer-col:last-child {
+  text-align: right;
+}
