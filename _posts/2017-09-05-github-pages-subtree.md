@@ -6,6 +6,8 @@ date:   2017-09-05
 
 [GitHub Pages](https://pages.github.com/) is a great service for showcasing your GitHub projects. Chances are, you want to keep the actual project source code and the GitHub pages code separated in different branches. You might also prefer the GitHub pages code to not pollute the project source code. The git command [`git worktree`](https://git-scm.com/docs/git-worktree) (from git 2.5) can help you do just that.
 
+<!--more-->
+
 Let's see this in action. First, fork my [example repository](https://github.com/tewson/gh-pages-worktree-example). You'll also need a [Node.js](https://nodejs.org) environment to build the GitHub Pages code.
 
 Clone the forked repository.
