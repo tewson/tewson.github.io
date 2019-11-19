@@ -8,6 +8,8 @@ I've been writing codemods using [jscodeshift](https://github.com/facebook/jscod
 
 One of the things I had to do recently was to print a whole `MemberExpression` based on a module name I was looking for. For example, consider the following code snippet.
 
+<!--more-->
+
 ```js
 myUtils.doAction();
 // ...
