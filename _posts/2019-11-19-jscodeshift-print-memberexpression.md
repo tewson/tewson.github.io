@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jscodeshift Snippet - Printing a Whole MemberExpression"
+title: "jscodeshift snippet - printing a whole MemberExpression"
 date: 2019-11-19
 ---
 
